@@ -5,26 +5,26 @@
 # technické nastavení
 #
 
-title: Your awesome title # To co je napsané na tabu ve kterém je stránka.
-email: info@pirati.cz
+title: Piráti Bohumín # To co je napsané na tabu ve kterém je stránka.
+email: jakub.jezisek@pirati.cz
 description: >-
-  Zde potří popis webu například stránka místního sdružení. Zobrází se například ve feed/rss nebo ve výsledcích googlu.
+  Piráti Bohumín - Web České pirátské strany v Bohumíně
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
-keywords: piráti, česká pirátská strana, svoboda, demokracie, název města, zkratka města, místní združení,
+keywords: bohumín, piráti, česká pirátská strana, svoboda, demokracie, piráti bohumín, piráti karviná
 
 administrator:
-  email: TADY_DEJTE_VLASTNI_MAIL@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
+  email: jakub.jezisek@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
 
 organization:
-  name: Jmeno skupiny používající web - př Pirástá strana
-  shortName: Název skupiny
-  email: example@pirati.cz
-  phone: +420 770 113 642
-  address: |
-    Na Moráni 3,
-    120 00 Praha 2
-  residenceImg:
-  mapLink: https://mapy.cz/zakladni?vlastni-body&x=14.4418976&y=50.0863156&z=18&ut=PiCe&uc=9h2F.xXwtn&ud=ulice%20%C5%98eho%C5%99ova%20943%2F19%2C%20Praha%2C%20130%2000%2C%20okres%20Hlavn%C3%AD%20m%C4%9Bsto%20Praha
+  name: Piráti Bohumín
+  shortName: Piráti Bohumín
+  email: jakub.jezisek@pirati.cz
+#  phone: +420 770 113 642
+#  address: |
+#    Na Moráni 3,
+#    120 00 Praha 2
+#  residenceImg:
+#  mapLink: https://mapy.cz/zakladni?vlastni-body&x=14.4418976&y=50.0863156&z=18&ut=PiCe&uc=9h2F.xXwtn&ud=ulice%20%C5%98eho%C5%99ova%20943%2F19%2C%20Praha%2C%20130%2000%2C%20okres%20Hlavn%C3%AD%20m%C4%9Bsto%20Praha
   redmineLink: https://redmine.pirati.cz/projects
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
@@ -57,9 +57,9 @@ calendar:
 facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/ceska.piratska.strana/
-  profilePageName: Nějaký název FB profilu
-  appId: 1526197851008996
+  profilePage: https://www.facebook.com/piratibohumin
+  profilePageName: Piráti Bohumín
+  appId: 2357476807818764
 
 twitter:
   loadSDK: true
