@@ -7,9 +7,11 @@ titles:
 category:
   - clenove
   - pms
-ordpms: 1
+  - representative
+ordrepresentative: 1
 ordclenove: 1
-description: zastupitel Bohumín, Člen KS Moravskoslezský kraj, Asistent Poslance # zobrazuje se v lide
+ordkomise: 1
+description: zastupitel Bohumín, člen KS Moravskoslezský kraj, asistent poslance # zobrazuje se v lide
 img: people/daniel-galuszka.jpg # zakomentuj radek dokud není fotka
 mail:
   - daniel.galuszka@pirati.cz

@@ -8,7 +8,10 @@ category:
   - clenove
   - kandidat-obec
   - kontaktni_osoba
-description: Člen KS Moravskoslezský kraj, Správce sítě # zobrazuje se v lide
+  - komise
+ordclenove: 2
+ordkomise: 1
+description: člen KS Moravskoslezský kraj, finanční výbor, komise pro cyklodopravu, správce sítě # zobrazuje se v lide
 img: people/jakub-jezisek.jpg # zakomentuj radek dokud není fotka
 mail:
   - jakub.jezisek@pirati.cz
