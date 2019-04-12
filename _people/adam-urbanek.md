@@ -2,7 +2,7 @@
 uid: adam.urbanek
 name:     Adam Urbánek  	# běžně používáné jméno
 titles:
-  before: .
+  before: 
   after:
 category:
   - kandidat-obec

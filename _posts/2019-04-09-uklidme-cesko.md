@@ -11,7 +11,7 @@ tags:
   - Ukliďme Česko
 ---
 
-Bohumín, 8. dubna 2019 – **Již potřetí šliu bohumínští Piráti, příznivci a další se zájmem o životní prostředí uklízet přírodu v Bohumíně. Tentokrát zamíříli do okolí Vrbického jezera.**
+Bohumín, 8. dubna 2019 – **Již potřetí šli bohumínští Piráti, příznivci a další se zájmem o životní prostředí uklízet přírodu v Bohumíně. Tentokrát zamíříli do okolí Vrbického jezera.**
 
 <hr />
 
