@@ -4,8 +4,8 @@ uid: radnice
 # number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:
   uid: daniel.galuszka
-  age: 31
-  profession: knihovník
+  age: 24
+  profession: asistent poslance
   party: Piráti
   description: Asistent poslance # zobrazuje se v komunalni-volby
 
