@@ -7,7 +7,7 @@ leader:
   age: 24
   profession: asistent poslance
   party: Piráti
-  description: Asistent poslance # zobrazuje se v komunalni-volby
+  #description: Asistent poslance # zobrazuje se v komunalni-volby
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - uid: martin.knybel
@@ -23,6 +23,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: architekt 
   - uid: jakub.jezisek
     profession: správce sítě
+    party: Piráti
 
 #tail: # zbytek kandidatky
 #      # jedinná povinná položka je name zbytek můžete vynechat
