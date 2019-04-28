@@ -16,6 +16,9 @@ main:
   - link: /lide/
     name: Lidé
     match: lide
+  - link: /eurovolby/
+    name: Eurovolby
+    match: eurovolby
   - link: /komunalni-volby/
     name: Komunální volby
     match: komunalni-volby
