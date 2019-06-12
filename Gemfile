@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.7.3"
+gem "jekyll", "~> 3.8.3"
 
 
 # Používá společné thema to je stále ve vývoji tj změny mužou být velké a je třeba důkladně testovat jestli se věci nerozbíjejí.
@@ -36,7 +36,8 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "json" # For gem building
-gem 'sprockets', '~> 4.0.0.beta'
+gem 'sassc-rails', '~> 2.0.0'
+gem 'sprockets', '~> 4.0.0.beta8'
 gem 'uglifier', '~> 4.0.0'
 gem "mini_magick"
 gem "autoprefixer-rails"
