@@ -5,7 +5,7 @@ title: 'Bohumín - perla Moravskoslezského kraje'
 date: 2019-06-12T08:00:00.000Z
 author: Daniel Galuszka
 authorId: daniel.galuszka
-image: posts/bohumin_meandr.jpg
+image: posts/bohuminmeandr.jpg
 tags:
   - Bohumín
 ---
