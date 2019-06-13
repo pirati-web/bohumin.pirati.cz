@@ -10,8 +10,7 @@ tags:
   - Bohumín
 ---
 
-**Bohumín - perla Moravskoslezského kraje**
-<hr />
+**Vážení členové, příznivci, kamarádi a spoluobčané,**
 
 položme si otázku. Jak by mohl vypadat Bohumín? Naše město mělo dlouho pověst továrního střípku v industriální mozaice Moravskoslezska. Měli jsme štěstí, že to tady Bohumíňáci vzali do vlastních rukou a dokázali město podržen přes všechny krize, ať už šlo o živelné katastrofy či globální finanční krize spojené s propouštěním. Nyní je Bohumín pro všechny náhodné turisty příjemným překvapením, a lidé, kteří zde byli naposledy třeba před dvaceti lety, nevěří vlastním očím. Za to patří všem, kteří se na tom podíleli, velký dík.
 
