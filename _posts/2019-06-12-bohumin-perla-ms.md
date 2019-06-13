@@ -10,9 +10,9 @@ tags:
   - Bohumín
 ---
 
-**Vážení členové, příznivci, kamarádi a spoluobčané,**
+**Vážení členové, příznivci, kamarádi a spoluobčané,položme si otázku.**
 
-položme si otázku. Jak by mohl vypadat Bohumín? Naše město mělo dlouho pověst továrního střípku v industriální mozaice Moravskoslezska. Měli jsme štěstí, že to tady Bohumíňáci vzali do vlastních rukou a dokázali město podržen přes všechny krize, ať už šlo o živelné katastrofy či globální finanční krize spojené s propouštěním. Nyní je Bohumín pro všechny náhodné turisty příjemným překvapením, a lidé, kteří zde byli naposledy třeba před dvaceti lety, nevěří vlastním očím. Za to patří všem, kteří se na tom podíleli, velký dík.
+Jak by mohl vypadat Bohumín? Naše město mělo dlouho pověst továrního střípku v industriální mozaice Moravskoslezska. Měli jsme štěstí, že to tady Bohumíňáci vzali do vlastních rukou a dokázali město podržen přes všechny krize, ať už šlo o živelné katastrofy či globální finanční krize spojené s propouštěním. Nyní je Bohumín pro všechny náhodné turisty příjemným překvapením, a lidé, kteří zde byli naposledy třeba před dvaceti lety, nevěří vlastním očím. Za to patří všem, kteří se na tom podíleli, velký dík.
 
 Jsem strašně vděčný za to, jakým inspirativním prostředím na mě působí naše příroda. Bohumín dostává punc jezernaté obce v koutě republiky, kde v tichých nivách řek hledají svůj domov jak vzácné druhy ptactva, tak lidé dychtící po klidu. Historický ráz náměstí Míru a Tomáše G. Masaryka nedávají zaniknout vzpomínce na předtovárenský Oderberg. 
 
