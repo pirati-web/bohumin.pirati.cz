@@ -8,9 +8,11 @@ authorId: daniel.galuszka
 image: posts/bohuminmeandr.jpg
 tags:
   - Bohumín
+  - Daniel-Galuszka
 ---
 
-**Vážení členové, příznivci, kamarádi a spoluobčané,položme si otázku.**
+Bohumín, 12. června 2019 - **Vážení členové, příznivci, kamarádi a spoluobčané, položme si otázku.**
+<hr />.
 
 Jak by mohl vypadat Bohumín? Naše město mělo dlouho pověst továrního střípku v industriální mozaice Moravskoslezska. Měli jsme štěstí, že to tady Bohumíňáci vzali do vlastních rukou a dokázali město podržen přes všechny krize, ať už šlo o živelné katastrofy či globální finanční krize spojené s propouštěním. Nyní je Bohumín pro všechny náhodné turisty příjemným překvapením, a lidé, kteří zde byli naposledy třeba před dvaceti lety, nevěří vlastním očím. Za to patří všem, kteří se na tom podíleli, velký dík.
 
@@ -21,5 +23,8 @@ Pak tady ale máme spousta lokalit, kde nás trápí různé problémy. Třesou 
 Všechno to zní strašně abstraktně, proto se s vámi budeme pravidelně dělit o naše nápady a budeme rádi, když nám k tomu napíšete svůj názor. Ostatně žijeme v době, kdy nemusíme plánovat formální schůze uvězněné v místě a čase. Konečně můžeme propojit myšlenky a činy na internetu. 
 
 Bohumínští Piráti jsou sice malí, ale opravdu se s vámi chtějí bavit. Všichni ostatně chceme to samé. Město, ve kterém stojí za to žít. Kde máme rodinu a kamarády, kde si můžeme dovolit důstojné bydlení, kde není o zábavu nouze, protože ji tvoří lidi pro lidi. Proto vás budeme pravidelně informovat o tom, co se chystá a jak by to dle nás mělo fungovat. Díky za podporu! 
- 
+
+---
+Úvodní obrázek zdroj: Jakub Ježíšek 
+
 - - -
