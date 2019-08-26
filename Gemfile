@@ -22,8 +22,6 @@ gem "jekyll-theme-pirati", "7.5.0"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
 
-#oprava test 26.8.2019
-#gem 'sassc-rails', '~> 2.0.0'
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
@@ -40,7 +38,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "json" # For gem building
 #oprava test 26.8.2019
-gem 'sassc-rails', '~> 2.0.0'
+#gem 'sassc-rails', '~> 2.0.0'
 gem 'sprockets', '4.0.0.beta8'
 gem 'uglifier', '~> 4.0.0'
 gem "mini_magick"
