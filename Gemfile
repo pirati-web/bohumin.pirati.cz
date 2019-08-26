@@ -29,7 +29,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   # gem "github-pages"
   #oprava test 26.8.2019
-  gem "jekyll-assets", "3.0.10"
+  gem "jekyll-assets", "3.0.11"
   gem 'jekyll-environment-variables'
 end
 
