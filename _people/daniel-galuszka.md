@@ -11,7 +11,7 @@ category:
 ordrepresentative: 1
 ordclenove: 1
 ordkomise: 1
-description: zastupitel Bohumín, člen KS Moravskoslezský kraj, asistent poslance # zobrazuje se v lide
+description: zastupitel Bohumín, místopředseda MS Karvinsko, člen KS Moravskoslezský kraj, asistent poslance # zobrazuje se v lide
 img: people/daniel-galuszka.jpg # zakomentuj radek dokud není fotka
 mail:
   - daniel.galuszka@pirati.cz
