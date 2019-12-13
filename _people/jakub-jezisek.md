@@ -25,4 +25,6 @@ Narodil se v Bohumíně, kde žije dodnes. Vystudoval bohumínské gymnázium Fr
 
 Mezi jeho zájmy patří hlavně cestování a sport. Po vlastní ose jezdí na poznávací výlety a to i do zahraničí. Ve sportu se věnuje cyklistice, běhání a turistice. Mezi jeho další koníčky patří technika všeho druhu, se kterou jej baví pracovat a opravovat ji. Dále rád sleduje filmy, čte, poslouchá hudbu a věnuje se oblíbenému žánru ajťáků: sci-fi a fantasy.
 
-O politiku a dění u nás i ve světě se zajímal vždy a v poslední době nebyl spokojen jakým směrem se politika včetně stavu společnosti ubírá. To jej vedlo k tomu, že oslovil Piráty, se kterými kandiduje do zastupitelstva rodného Bohumína. 
+O politiku a dění u nás i ve světě se zajímal vždy a v poslední době nebyl spokojen jakým směrem se politika včetně stavu společnosti ubírá.  To jej vedlo k tomu, že oslovil Piráty, se kterými kandidoval do zastupitelstva Bohumína.
+
+V současnosti zastupuje Piráty ve finančním výborů a komisi pro cyklodopravu v Bohumíně.
